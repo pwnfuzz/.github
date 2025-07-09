@@ -13,9 +13,9 @@
 
 ## 🧠 Featured Projects
 
-- [POCs](https://github.com/pwnfuzz/POCs): PoCs for Windows driver bugs, kernel vulnerabilities, and other CVEs. Educational and weaponized responsibly. 
-- [PwnLand](https://github.com/pwnfuzz/PwnLand): Living knowledge base for exploit techniques, binary internals, and offensive tooling workflows.  
-- [WindowsHeapMastery](https://github.com/pwnfuzz/WindowsHeapMastery): Research repo focused on Windows heap internals and related exploitation vectors. Great for understanding LFH, segment heaps, etc.
+- [POCs](https://github.com/pwnfuzz/POCs): Collection of exploits and PoCs across Windows, Linux, and enterprise software. 
+- [PwnLand](https://github.com/pwnfuzz/PwnLand):  Curated knowledge base of exploitation techniques, reverse engineering workflows, and fuzzing insights — built for repeatable, real-world offensive research.   
+- [WindowsHeapMastery](https://github.com/pwnfuzz/WindowsHeapMastery):  Modern notes on heap internal analysis and exploitation techniques. 
 - [WinDriver-EXP](https://github.com/ghostbyt3/WinDriver-EXP): Collection of proof-of-concepts for vulnerable Windows drivers, tailored for kernel exploitation. 
 - [BYOVDFinder](https://github.com/ghostbyt3/BYOVDFinder): Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios.
 - [Patch_Tuesday](https://github.com/ghostbyt3/patch-tuesday): A site that efficiently tracks Microsoft Patch Tuesday updates for vulnerability analysis and patch diffing.
@@ -26,8 +26,6 @@
 
 - **Ayushman Dubey ([D4mianWayne](https://github.com/D4mianWayne))** – Founder & Lead Researcher  
 - **Nikhil John Thomas ([ghostbyt3](https://github.com/ghostbyt3))** – Co-Founder & Security Researcher  
-
-We collaborate on exploit chains, Windows internals, fuzzing workflows, and vulnerability research.
 
 ---
 
