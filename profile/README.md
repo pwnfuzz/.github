@@ -24,6 +24,7 @@ OS Internals — Deep inspection of Windows and Linux memory management, heap in
 ## Team
 
 **Ayushman Dubey** ([D4mianWayne](https://github.com/D4mianWayne)) — Founder & Lead Researcher
+
 **Nikhil John Thomas** ([ghostbyt3](https://github.com/ghostbyt3)) — Co-Founder & Security Researcher
 
 ---
