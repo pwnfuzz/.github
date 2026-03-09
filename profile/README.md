@@ -13,18 +13,17 @@ OS Internals — Deep inspection of Windows and Linux memory management, heap in
 
 | Repository | Description |
 |---|---|
-| [exploitation-grimoire](https://github.com/pwnfuzz/exploitation-grimoire) | Full-spectrum exploit development reference covering Linux and Windows — kernel exploitation, heap exploitation, ROP, and modern bypass techniques. |
-| [windows-heap-exploitation](https://github.com/pwnfuzz/windows-heap-exploitation) | Deep dive into Windows heap internals — Segment Heap, LFH, VS backend, and exploitation techniques on modern Windows. |
-| [cve-pocs](https://github.com/pwnfuzz/cve-pocs) | Documented proof-of-concepts for CVEs across Windows, Linux, and enterprise software — with root cause analysis and exploitation notes. |
 | [diffrays](https://github.com/pwnfuzz/diffrays) | Binary patch diffing tool for vulnerability research and exploit development. Supports IDA Domain API with automated diff pipelines. |
-| [byovd-watchdog](https://github.com/pwnfuzz/byovd-watchdog) | Identifies LOLDrivers not blocked by the active HVCI policy — built for BYOVD attack surface analysis. |
+| [exploitation-grimoire](https://github.com/pwnfuzz/exploitation-grimoire) | Full-spectrum exploit development reference covering Linux and Windows including kernel exploitation, heap exploitation, ROP, and modern bypass techniques. |
+| [windows-heap-exploitation](https://github.com/pwnfuzz/windows-heap-exploitation) | Deep dive into Windows heap internals, Segment Heap, LFH, VS backend, and exploitation techniques on modern Windows. |
+| [cve-pocs](https://github.com/pwnfuzz/cve-pocs) | Documented proof-of-concepts for CVEs across Windows, Linux, and enterprise software with root cause analysis and exploitation notes. |
+| [byovd-watchdog](https://github.com/pwnfuzz/byovd-watchdog) | Identifies LOLDrivers not blocked by the active HVCI policy built for BYOVD attack surface analysis. |
 
 ---
 
 ## Team
 
 **Ayushman Dubey** ([D4mianWayne](https://github.com/D4mianWayne)) — Founder & Lead Researcher
-
 **Nikhil John Thomas** ([ghostbyt3](https://github.com/ghostbyt3)) — Co-Founder & Security Researcher
 
 ---
