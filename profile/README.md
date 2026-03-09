@@ -1,46 +1,38 @@
-# 🧪 PwnFuzz
+# PwnFuzz
 
-**PwnFuzz** is all about diving into security research, fuzzing cool stuff, and messing around with exploits — while sharing tools and ideas along the way. We're here to learn, build, and maybe break a few things (responsibly).
+Offensive security research lab focused on exploit engineering, vulnerability research, and OS internals. We publish exploitation techniques, CVE proof-of-concepts, and in-depth analysis of Windows and Linux attack surfaces — from userland primitives to kernel exploitation.
 
-## 🎯 Focus Areas
-
-- 🔍 Exploit Engineering – Kernel/userland exploitation, privilege escalation
-- 🛡️ OS Internals & Security – Deep inspection of Windows & Linux attack surfaces
-- 🤖 Fuzzing & Automation – Custom fuzzers, bug discovery pipelines
-- 💣 Proof-of-Concepts – Demonstrations of real-world vulnerabilities
+### Research Areas
+Exploit Engineering — Kernel and userland exploitation, privilege escalation primitives, modern mitigation bypass on Windows and Linux.
+Vulnerability Research — CVE analysis, patch diffing, root cause analysis, and weaponized proof-of-concepts across Windows, Linux, and enterprise software.
+OS Internals — Deep inspection of Windows and Linux memory management, heap internals, driver attack surfaces, and kernel subsystems.
 
 ---
 
-## 🧠 Featured Projects
+## Projects
 
-- [POCs](https://github.com/pwnfuzz/POCs): Collection of exploits and PoCs across Windows, Linux, and enterprise software. 
-- [PwnLand](https://github.com/pwnfuzz/PwnLand):  Curated knowledge base of exploitation techniques, reverse engineering workflows, and fuzzing insights — built for repeatable, real-world offensive research.   
-- [WindowsHeapMastery](https://github.com/pwnfuzz/WindowsHeapMastery):  Modern notes on heap internal analysis and exploitation techniques. 
-- [WinDriver-EXP](https://github.com/ghostbyt3/WinDriver-EXP): Collection of proof-of-concepts for vulnerable Windows drivers, tailored for kernel exploitation. 
-- [BYOVDFinder](https://github.com/ghostbyt3/BYOVDFinder): Identifies LOLDrivers that are not blocked by the active HVCI policy — ideal for BYOVD scenarios.
-- [Patch_Tuesday](https://github.com/ghostbyt3/patch-tuesday): A site that efficiently tracks Microsoft Patch Tuesday updates for vulnerability analysis and patch diffing.
-
----
-
-## 👥 Team
-
-- **Ayushman Dubey ([D4mianWayne](https://github.com/D4mianWayne))** – Founder & Lead Researcher  
-- **Nikhil John Thomas ([ghostbyt3](https://github.com/ghostbyt3))** – Co-Founder & Security Researcher  
+| Repository | Description |
+|---|---|
+| [exploitation-grimoire](https://github.com/pwnfuzz/exploitation-grimoire) | Full-spectrum exploit development reference covering Linux and Windows — kernel exploitation, heap exploitation, ROP, and modern bypass techniques. |
+| [windows-heap-exploitation](https://github.com/pwnfuzz/windows-heap-exploitation) | Deep dive into Windows heap internals — Segment Heap, LFH, VS backend, and exploitation techniques on modern Windows. |
+| [cve-pocs](https://github.com/pwnfuzz/cve-pocs) | Documented proof-of-concepts for CVEs across Windows, Linux, and enterprise software — with root cause analysis and exploitation notes. |
+| [diffrays](https://github.com/pwnfuzz/diffrays) | Binary patch diffing tool for vulnerability research and exploit development. Supports IDA Domain API with automated diff pipelines. |
+| [byovd-watchdog](https://github.com/pwnfuzz/byovd-watchdog) | Identifies LOLDrivers not blocked by the active HVCI policy — built for BYOVD attack surface analysis. |
 
 ---
 
-## 🌐 Web Presence
+## Team
 
-- 🔗 **Website**: [pwnfuzz.com](https://www.pwnfuzz.com)  
-- 🧪 **Labs**: [labs.pwnfuzz.com](https://labs.pwnfuzz.com)  
-- 💼 **LinkedIn**: [linkedin.com/company/pwnfuzz](https://www.linkedin.com/company/pwnfuzz/)  
-- ✉️ **Email**: research@pwnfuzz.com  
+**Ayushman Dubey** ([D4mianWayne](https://github.com/D4mianWayne)) — Founder & Lead Researcher
 
+**Nikhil John Thomas** ([ghostbyt3](https://github.com/ghostbyt3)) — Co-Founder & Security Researcher
 
 ---
 
-## ✨ Mission Statement
+## Links
 
-> Advanced exploitation techniques, reverse engineering insights, and cutting-edge security research from zero-day discovery to sophisticated exploit development.
-
+- Labs: [labs.pwnfuzz.com](https://labs.pwnfuzz.com)
+- Website: [pwnfuzz.com](https://www.pwnfuzz.com)
+- X: [@pwnfuzz](https://twitter.com/pwnfuzz)
+- Contact: [research@pwnfuzz.com](mailto:research@pwnfuzz.com)
 ---
