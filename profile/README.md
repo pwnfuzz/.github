@@ -1,6 +1,6 @@
 # PwnFuzz
 
-Offensive security research lab focused on exploit engineering, vulnerability research, and OS internals. We publish exploitation techniques, CVE proof-of-concepts, and in-depth analysis of Windows and Linux attack surfaces — from userland primitives to kernel exploitation.
+Offensive security research lab focused on exploit engineering, vulnerability research, and OS internals. We publish exploitation techniques, CVE proof-of-concepts, and in-depth analysis of Windows and Linux attack surfaces from userland primitives to kernel exploitation.
 
 ### Research Areas
 Exploit Engineering — Kernel and userland exploitation, privilege escalation primitives, modern mitigation bypass on Windows and Linux.
