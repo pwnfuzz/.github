@@ -3,9 +3,9 @@
 Offensive security research lab focused on exploit engineering, vulnerability research, and OS internals. We publish exploitation techniques, CVE proof-of-concepts, and in-depth analysis of Windows and Linux attack surfaces from userland primitives to kernel exploitation.
 
 ### Research Areas
-**Exploit Engineering** — Kernel and userland exploitation, privilege escalation primitives, modern mitigation bypass on Windows and Linux.
-**Vulnerability Research** — CVE analysis, patch diffing, root cause analysis, and weaponized proof-of-concepts across Windows, Linux, and enterprise software.
-**OS Internals** — Deep inspection of Windows and Linux memory management, heap internals, driver attack surfaces, and kernel subsystems.
+**Exploit Engineering**: Kernel and userland exploitation, privilege escalation primitives, modern mitigation bypass on Windows and Linux.
+**Vulnerability Research**: CVE analysis, patch diffing, root cause analysis, and weaponized proof-of-concepts across Windows, Linux, and enterprise software.
+**OS Internals**: Deep inspection of Windows and Linux memory management, heap internals, driver attack surfaces, and kernel subsystems.
 
 ---
 
